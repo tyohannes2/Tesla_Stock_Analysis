@@ -51,4 +51,4 @@ This project uses **historical stock data** for Tesla (TSLA) and applies a **Lin
 **Thomas Yohannes**  
 - Master’s in Epidemiology  
 - Data science enthusiast with interest in sports, healthcare, and finance analytics  
-- [LinkedIn](https://www.linkedin.com/in/thomas-yohannes-mph-b55940135/))
+- [LinkedIn](https://www.linkedin.com/in/thomas-yohannes-mph-b55940135/)
