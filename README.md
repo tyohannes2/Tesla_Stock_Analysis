@@ -33,9 +33,9 @@ This project uses **historical stock data** for Tesla (TSLA) and applies a **Lin
    - Measured R² Score to assess accuracy
 
 5. **Visualization**  
-   - Tesla Stock Closing Price, 2019 - 2024
-   - Tesla Stock Price with Moving Averages
-   - ![Plotted actual vs. predicted closing prices](Actual versus Predicted Tesla Stock Prices.png)
+   - [Tesla Stock Closing Price, 2019 - 2024](https://github.com/tyohannes2/Tesla_Stock_Analysis/blob/main/Tesla%20Stock%20Closing%20Price%2C%202019-2024.png)
+   - [Tesla Stock Price with Moving Averages](https://github.com/tyohannes2/Tesla_Stock_Analysis/blob/main/Tesla%20Stock%20Price%20with%20Moving%20Averages.png)
+   - [Plotted actual vs. predicted closing prices](https://github.com/tyohannes2/Tesla_Stock_Analysis/blob/main/Actual%20versus%20Predicted%20Tesla%20Stock%20Prices.png)
 
 ---
 
