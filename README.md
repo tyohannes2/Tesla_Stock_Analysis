@@ -1,10 +1,10 @@
-# 📈 Tesla Stock Price Prediction with Linear Regression
+# Tesla Stock Price Prediction with Linear Regression
 
 This project uses **historical stock data** for Tesla (TSLA) and applies a **Linear Regression model** to predict closing stock prices based on Open and High prices. It also evaluates model performance and visualizes prediction accuracy.
 
 ---
 
-## 🔧 Tools and Libraries Used
+## Tools and Libraries Used
 
 - Python
 - pandas
@@ -15,7 +15,7 @@ This project uses **historical stock data** for Tesla (TSLA) and applies a **Lin
 
 ---
 
-## 📊 Project Workflow
+## Project Workflow
 
 1. **Data Collection**  
    Collected Tesla stock data using the `yfinance` library from January 2015 to July 2025.
@@ -39,10 +39,16 @@ This project uses **historical stock data** for Tesla (TSLA) and applies a **Lin
 
 ---
 
-## 🧪 Results
+## Results
 
 - **Mean Squared Error**: `1024.37`  
 - **R² Score**: `0.699`  
   _Shows a moderate correlation between predicted and actual values_
 
 ---
+## Author
+
+**Thomas Yohannes**  
+- Master’s in Epidemiology  
+- Data science enthusiast with interest in sports, healthcare, and finance analytics  
+- [LinkedIn](https://www.linkedin.com/in/thomas-yohannes-mph-b55940135/))
