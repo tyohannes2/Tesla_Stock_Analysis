@@ -35,7 +35,7 @@ This project uses **historical stock data** for Tesla (TSLA) and applies a **Lin
 5. **Visualization**  
    - Tesla Stock Closing Price, 2019 - 2024
    - Tesla Stock Price with Moving Averages
-   - Plotted actual vs. predicted closing prices
+   - ![Plotted actual vs. predicted closing prices](Actual versus Predicted Tesla Stock Prices.png)
 
 ---
 
